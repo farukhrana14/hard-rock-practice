@@ -43,6 +43,7 @@ const displaySongs = (songs) => {
 
 const getLyric = (artist, title) =>{
     const url = `https://api.lyrics.ovh/v1/${artist}/${title}`;
+    document.getElementById("single-lyric").innerText = "";
     console.log(url);
     fetch(url)
     .then(res => res.json())
