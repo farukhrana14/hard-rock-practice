@@ -1,6 +1,6 @@
-## hard-rock-practice-assignment
+## Hard-Rock-practice-assignment
 
-### The API of song works well in localhost but not  allowed to run on live server for free... But the Music Search and Lyric Search do the works. Only playing music is restricted. 
+### Notes: The API of song works well in localhost but not allowed to run on live server for free... But the Music Search and Lyric Search do the works. Only playing music is restricted. 
 
 ##
 * Live Site: https://farukhrana14.github.io/hard-rock-practice/ 
